@@ -1,0 +1,229 @@
+[
+   
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9294916",
+        "longitude": "74.9173533",
+        "speed": "0",
+        "odometer reading": "750424",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716229815000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.92936",
+        "longitude": "74.91744",
+        "speed": "0",
+        "odometer reading": "750429",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262019000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9292766",
+        "longitude": "74.9175266",
+        "speed": "8",
+        "odometer reading": "750452",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262166000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9290049",
+        "longitude": "74.9177016",
+        "speed": "7",
+        "odometer reading": "750488",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262183000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9289483",
+        "longitude": "74.9177",
+        "speed": "8",
+        "odometer reading": "750492",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262186000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.92934",
+        "longitude": "74.9179483",
+        "speed": "21",
+        "odometer reading": "750601",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262223000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9300266",
+        "longitude": "74.9180133",
+        "speed": "31",
+        "odometer reading": "750678",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262233000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9309816",
+        "longitude": "74.9180916",
+        "speed": "33",
+        "odometer reading": "750784",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262244000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9319216",
+        "longitude": "74.9181999",
+        "speed": "34",
+        "odometer reading": "750889",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262255000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9329",
+        "longitude": "74.918305",
+        "speed": "35",
+        "odometer reading": "750999",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262266000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.933585",
+        "longitude": "74.9183883",
+        "speed": "39",
+        "odometer reading": "751075",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262273000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9337383",
+        "longitude": "74.9184566",
+        "speed": "39",
+        "odometer reading": "751094",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262275000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9414283",
+        "longitude": "74.9329133",
+        "speed": "26",
+        "odometer reading": "752996",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262511000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9414633",
+        "longitude": "74.9330983",
+        "speed": "22",
+        "odometer reading": "753017",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262514000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.94141",
+        "longitude": "74.9331966",
+        "speed": "20",
+        "odometer reading": "753029",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262516000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.94133",
+        "longitude": "74.9332833",
+        "speed": "21",
+        "odometer reading": "753042",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262518000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9412683",
+        "longitude": "74.9333166",
+        "speed": "23",
+        "odometer reading": "753050",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262519000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9409083",
+        "longitude": "74.933645",
+        "speed": "33",
+        "odometer reading": "753104",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262525000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.940185",
+        "longitude": "74.9342383",
+        "speed": "34",
+        "odometer reading": "753207",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262534000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.93996",
+        "longitude": "74.93443",
+        "speed": "38",
+        "odometer reading": "753239",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262537000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9397783",
+        "longitude": "74.934685",
+        "speed": "43",
+        "odometer reading": "753274",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262540000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9395783",
+        "longitude": "74.9350149",
+        "speed": "0",
+        "odometer reading": "753316",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262544000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.939475",
+        "longitude": "74.9353916",
+        "speed": "37",
+        "odometer reading": "753359",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262548000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9393916",
+        "longitude": "74.9356783",
+        "speed": "35",
+        "odometer reading": "753401",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262551000"
+    },
+    {
+        "EquipmentId": "EQPT-4",
+        "latitude": "12.9392916",
+        "longitude": "74.9358166",
+        "speed": "33",
+        "odometer reading": "753410",
+        "eventDate": "1716229800000",
+        "eventGeneratedTime": "1716262553000"
+    }
+   
+]
